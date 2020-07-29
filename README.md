@@ -3,14 +3,14 @@
 
 ![hacking](https://user-images.githubusercontent.com/63662884/88763292-854af780-d190-11ea-9dcb-5f8d465c5a58.gif)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#                         **My Repo**
+- 🔭 I’m currently working on  *Flutter*
+
+![flutter_show_off](https://user-images.githubusercontent.com/63662884/88765081-95b0a180-d193-11ea-99d5-35c6faf2c4f5.gif)
 
 
-<!--
-**naveenbharadwaj19/naveenbharadwaj19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

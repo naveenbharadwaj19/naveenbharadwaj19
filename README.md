@@ -1,21 +1,35 @@
-## Hi I'm Naveen 👋
+### Hi there, I'm Naveen 👋
+
+- 🔭 I’m currently working on a *Flutter*
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects and to start with web development
+- ⚡ Fun fact: I love to play video games and football
+
+<!--### Connect with me: -->
+
+<!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+<!--[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+
+## My GitHub contributions
+[![GitHub Game of Life](https://github4life.herokuapp.com/naveenbharadwaj19.gif?z=6)](https://github4life.herokuapp.com/naveenbharadwaj19)
 
 
-![hacking](https://user-images.githubusercontent.com/63662884/88763292-854af780-d190-11ea-9dcb-5f8d465c5a58.gif)
+### Languages and Tools:
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-#                         **My Repo**
-- 🔭 I’m currently working on  *Flutter*
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![flutter_show_off](https://user-images.githubusercontent.com/63662884/88765081-95b0a180-d193-11ea-99d5-35c6faf2c4f5.gif)
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> 
 
+---
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=naveenbharadwaj19&show_icons=true&hide_border=true&count_private=true&theme=synthwave" />
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenbharadwaj19)](https://github.com/anuraghazra/github-readme-stats)

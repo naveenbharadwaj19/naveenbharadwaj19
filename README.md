@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects and to start with web development 💻 
-- ⚡ Fun fact: I love to play video games ❤️ and football ⚽
+- ⚡ Fun fact: Bees can fly higher than Mount Everest 🐝
 
 <!--### Connect with me: -->
 

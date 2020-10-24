@@ -1,6 +1,7 @@
 ### Hi there, 👋
 
-![intro](https://user-images.githubusercontent.com/63662884/88889263-767e4680-d25d-11ea-9362-658ae601b162.gif)
+![intro](https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif)
+
 
 - 🔭 I’m currently working on a *Flutter*
 - 🌱 I’m currently learning everything 🤣

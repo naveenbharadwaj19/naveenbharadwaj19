@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on a *Flutter*
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects and to start with web development 💻 
+- 🥅 2021 Goals: Start with node.js and launch my app 
 - ⚡ Fun fact: Bees can fly higher than Mount Everest 🐝
 
 <!--### Connect with me: -->

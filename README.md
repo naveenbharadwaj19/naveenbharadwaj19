@@ -3,7 +3,7 @@
 ![intro](https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif)
 
 
-- 💍 Married to Flutter💖
+- 💖 Flutter
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Start with node.js or graphQl

@@ -4,7 +4,7 @@
 
 ## Software Engineer 💻 in 🌅,Bookworm in 🌃
 
-- 🌱 I’m currently working with node.js
+- 🌱 I’m currently working with flutter
 - ❤️ I’m looking to collaborate with other content creators
 - ⚡ Fun fact: **Bees** can fly higher than Mount Everest 🐝
 

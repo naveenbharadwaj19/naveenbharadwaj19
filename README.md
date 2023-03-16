@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working with flutter
 - ❤️ I’m looking to collaborate with other content creators
-- ⚡ Fun fact: **Bees** can fly higher than Mount Everest 🐝
+- ⚡ Fun fact: A **snail** can sleep for three years 🐌
 
 <!--### Connect with me: -->
 

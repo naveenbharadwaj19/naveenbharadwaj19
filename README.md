@@ -5,7 +5,7 @@
 ## Software Engineer 💻 in 🌅,Bookworm in 🌃
 
 - 🌱 I’m currently working with flutter
-- 📖 I'm currently learning Kotlin
+- 📖 I'm currently learning Typescript
 - ❤️ I’m looking to collaborate with other content creators
 - ⚡ Fun fact: A **snail** can sleep for three years 🐌
 
